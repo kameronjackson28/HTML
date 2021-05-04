@@ -1,3 +1,7 @@
 ## HTML-CSS
 HTML and CSS Projects
-This repository has multiple beginner HTML projects including web pages, learning how to use anchor tags, learning how to add pictures and more..
+This repository include: <br>
+* Learning how to use anchor tags
+* Learning how to use the basic HTML format
+* Learning how to link videos from a URL
+* Learning how to attach pictures from a local path.
