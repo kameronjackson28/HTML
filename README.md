@@ -1,5 +1,5 @@
-## HTML-CSS
-HTML and CSS Projects
+## HTML
+HTML
 This repository include: <br>
 * Learning how to use anchor tags
 * Learning how to use the basic HTML format
